@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="txvSignIn">Already have an account? Login here!</string>
+    <string name="logout">Logout</string>
+    <string name="btnEntry">Add Entry</string>
+    <string name="btnUpdate">Update</string>
+</resources>
